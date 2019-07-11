@@ -1,0 +1,7 @@
+
+
+usingnamespace std;
+int main()
+{ cout<<"helloworld";
+retunr 0;
+}
